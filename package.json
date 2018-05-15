@@ -1,0 +1,20 @@
+{
+  "name": "poemist-php-api-wrapper",
+  "version": "1.0.0",
+  "description": "PHP API Wrapper for Poemist.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poemist/poemist-php-api-wrapper.git"
+  },
+  "keywords": ["php", "api", "poetry", "poems"],
+  "author": "Poemist Dev Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poemist/poemist-php-api-wrapper/issues"
+  },
+  "homepage": "https://www.poemist.com"
+}

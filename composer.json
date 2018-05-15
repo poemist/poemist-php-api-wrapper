@@ -1,0 +1,13 @@
+{
+    "name": "poemist/php-api-wrapper",
+    "description": "PHP API Wrapper for Poemist.com API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Poemist Dev Team",
+            "email": "hello@poemist.com"
+        }
+    ],
+    "require": {}
+}
